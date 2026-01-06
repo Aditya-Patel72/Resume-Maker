@@ -5,8 +5,8 @@ This project helps students and professionals create professional resumes quickl
 Perfect for **college submission, internships, and GitHub portfolio**.
 
 ---
-🔗 Live Demo
- Resume Maker
+🔗 **Live Demo:** [Resume Maker](https://aditya-patel72.github.io/Resume-Maker/)
+
 
  ---
 
