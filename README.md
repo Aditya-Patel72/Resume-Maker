@@ -66,7 +66,7 @@ Copy code
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Resume-Maker.git
+   https://github.com/Aditya-Patel72/Resume-Maker.git
 Open index.html in any modern browser
 
 Fill in your resume details and see the live preview
